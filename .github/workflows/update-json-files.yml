@@ -1,0 +1,33 @@
+name: Fetch JSON Files
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Tous les jours à minuit UTC
+  workflow_dispatch: # Permet de lancer manuellement
+
+jobs:
+  fetch-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.9
+
+    - name: Install Dependencies
+      run: pip install requests
+
+    - name: Fetch and Save JSON Files
+      run: python fetch_json_files.py
+
+    - name: Commit Changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add .
+        git commit -m "Update JSON files" || echo "No changes to commit"
+        git push
