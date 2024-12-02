@@ -1,0 +1,274 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "MiRO92 / arichornlover",
+      "META": { "repoName": "driftywinds' AltStore Repo" },
+      "contact": {
+          "web": "https://github.com/driftywinds/"
+      },
+      "downloadURL": "https://files.drifty.win/uYouEnhanced/uYouEnhanced_19.23.3-3.0.4.ipa",
+      "iconURL": "https://raw.githubusercontent.com/therealFoxster/AltSource/master/assets/icons/uYou.png",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nuYou is the best tweak for the YouTube app.\n \n uYouEnhanced is a modified version of uYouPlus & uYou with even more features.\n \n• And more\n \n More information: \n https://github.com/qnblackcat/uYouPlus/ \n \n Requires iOS 14.0 or later.",
+      "name": "uYouEnhanced (driftywinds)",
+      "screenshotURLs": [
+        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus1.jpeg?raw=true",
+        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus2.jpeg?raw=true",
+        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus3.jpeg?raw=true",
+        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus4.jpeg?raw=true",
+        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus5.jpeg?raw=true",
+        "https://github.com/therealFoxster/AltSource/blob/master/assets/screenshots/uYouPlus/uyouplus6.jpeg?raw=true"
+      ],
+      "size": 130097628,
+      "appPermissions": {
+        "entitlements": [
+            {
+              "name": "com.apple.security.application-groups"
+            },
+            {
+              "name": "com.apple.developer.associated-domains"
+            },
+            {
+              "name": "com.apple.developer.coremedia.allow-alternate-video-decoder-selection"
+            },
+            {
+              "name": "com.apple.developer.usernotifications.time-sensitive"
+            },
+            {
+              "name": "get-task-allow"
+            },
+            {
+              "name": "com.apple.developer.device-information.user-assigned-device-name"
+            },
+            {
+              "name": "com.apple.developer.group-session"
+            },
+            {
+              "name": "keychain-access-groups"
+            },
+            {
+              "name": "com.apple.developer.networking.multicast"
+            },
+            {
+              "name": "aps-environment"
+            },
+            {
+              "name": "com.apple.developer.networking.wifi-info"
+            }
+          ],
+          "privacy": [
+            {
+              "name": "AppleMusic",
+              "usageDescription": "This lets you add your own audio files to your videos."
+            },
+            {
+              "name": "BluetoothPeripheral",
+              "usageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices."
+            },
+            {
+              "name": "Camera",
+              "usageDescription": "This lets you create videos using the app."
+            },
+            {
+              "name": "Contacts",
+              "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+            },
+            {
+              "name": "LocalNetwork",
+              "usageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV."
+            },
+            {
+              "name": "LocationWhenInUse",
+              "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+            },
+            {
+              "name": "Microphone",
+              "usageDescription": "This lets you include audio with your videos and search using your voice."
+            },
+            {
+              "name": "PhotoLibrary",
+              "usageDescription": "This lets you upload media you've already created."
+            }
+          ]
+        },
+      "subtitle": "No DMCA can stop this ;) | join https://t.me/+rvcObIvOpctiMDI9 for more | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "02c2a8",
+      "version": "19.23.3",
+      "versionDate": "2024-06-10",
+      "versionDescription": "• Updated YouTube to 19.23.3 (latest commits)\n • uYou is using 3.0.4"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "whoeevee",
+      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift4.3/EeveeSpotify-4.3-8.9.50.ipa",
+      "iconURL": "https://i.ibb.co/ZWtsW0w/Spotify-icon-svg.png",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the most popular music streaming services!\nhttps://github.com/whoeevee/EeveeSpotify for more information",
+      "name": "Spotify (EeveeSpotify)",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/08/83/de/0883de6b-4615-4a41-0013-eaac0b258345/0265ec5e-b9ac-4c2f-9d95-2de3f284b0ec_IOS_-_6.7_-_S01_-_EN-US.png/600x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ec/b4/2b/ecb42b34-b289-095c-1891-0ed03bb57cc4/e6c4993b-f6e2-4b07-873d-afcb011acb30_IOS_-_6.7_-_S02_-_EN-US.png/600x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e2/b6/f4/e2b6f400-4342-02d6-1d11-2a8fc7c123d7/5953db43-4430-425a-9228-911aa8e783b9_IOS_-_6.7_-_S03_-_EN-US.png/600x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/bf/37/27bf3762-d85e-e603-ab60-883bb6508eaa/1c9b59de-280b-4a8b-b571-47fd96546e62_IOS_-_6.7_-_S04_-_EN-US.png/600x0w.png"
+      ],
+      "size": 91750400,
+      "subtitle": "Spotify with free premium, and extra UI features | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "1DB954",
+      "version": "8.9.50",
+      "versionDate": "2024-06-25",
+      "versionDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.\n\n\nEveeSpotify replaces Spotify monthly limited lyrics with one of the following three lyrics providers: \n\n- Genius: Offers the best quality lyrics, provides the most songs, and updates lyrics the fastest. Does not and will never be time-synced.\n\n- LRCLIB: The most open service, offering time-synced lyrics. However, it lacks lyrics for many songs.\n\n- Musixmatch: The service Spotify uses. Provides time-synced lyrics for many songs, but you'll need a user token to use this source. To obtain the token, download Musixmatch from the App Store, sign up, then go to Settings > Get help > Copy debug info, and paste it into EeveeSpotify alert. You can also extract the token using MITM.\n\n- If the tweak is unable to find a song or process the lyrics, you'll see a 'Couldn't load the lyrics for this song' message. The lyrics might be wrong for some songs when using Genius due to how the tweak searches songs. While I've made it work in most cases, kindly refrain from opening issues about it.\n\n\nPlease refrain from opening issues about the following features, as they are server-sided and will NEVER work: \n\n- Very High audio quality\n\n- Native playlist downloading (you can download podcast episodes though)\n\n- Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)\n\n- It's possible to implement downloading locally, but it will never be included in EeveeSpotify (unless someone opens a pull request).\n\n\nAll other information: - https://github.com/whoeevee/EeveeSpotify"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "zxcvbn",
+      "downloadURL": "https://files.drifty.win/InstaMulti/InstaMulti-1.6.2-zxcvbn.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nThis app has options for which tweaks to use.\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
+      "name": "InstaMulti / zxInsta",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+      ],
+      "size": 91750400,
+      "subtitle": "zxInsta is an 'all-in-one' tweak for instagram that lets you enable/disable many tweaks at any time. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "C13584",
+      "version": "333.1.0",
+      "versionDate": "2024-06-18",
+      "versionDescription": "More info - https://github.com/asdfzxcvbn/InstaMulti\n\n- updated insta (https://apps.apple.com/app/id389801252) to v333.1.0\n- info: https://telegra.ph/zxcvbn-tweaked-instamulti-03-23"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Babylon IPA Library",
+      "downloadURL": "https://files.drifty.win/Minecraft/Minecraft_v1.21.1.ipa",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/01/22/42012236-af5d-f1c1-31c2-4dd7827585dd/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.png",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the best selling games on the planet!\nhttps://t.me/BabylonIPA for other game releases",
+      "name": "Minecraft",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/8b/1e/bd8b1e0f-9460-b77f-a63e-2c77c5dad9d7/pr_source.png/626x0w.png",
+	"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/30/ac/d7/30acd77c-babc-d157-6efd-6ff07c6fd0f7/pr_source.png/626x0w.png",
+	"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/e6/8e/0be68e36-b4a1-8da6-0089-7b17fcde6e83/pr_source.png/626x0w.png",
+	"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/14/98/76149831-885a-9eca-0c01-8a95b97db189/pr_source.png/626x0w.png"
+      ],
+      "size": 91750400,
+      "subtitle": "Cracked Minecraft with working online | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "996747",
+      "version": "1.21.1",
+      "versionDate": "2024-06-21",
+      "versionDescription": "- Various bug fixes.\n- More Releases = https://t.me/BabylonIPA"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Ginsu / dayanch96",
+      "downloadURL": "https://files.drifty.win/YTMUltimate/YTMusicUltimate-v7.06.ipa",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nYT Music Ultimate patched for iOS 15+",
+      "name": "YT Music Ultimate",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/7a/42/56/7a425615-4812-fa43-e313-b82728fc56bc/05e41457-31f1-4dac-a4e4-b9484f702d78_0_APP_IPHONE_65_0.png/600x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a4/9c/c5/a49cc51d-573c-7ee3-f11e-19c72d6b91a6/d8e7dd5c-24c6-4b92-8889-21ccdc5f95b1_1_APP_IPHONE_65_1.png/600x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d8/5e/98/d85e989a-fe7c-8128-5c2a-defe56441dbd/f76cc6cd-f584-4e4a-94ae-8f7fd5947e5c_2_APP_IPHONE_65_2.png/600x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c4/65/d9/c465d90e-0a71-f0e4-77e6-ddf588f5f906/c6c2339b-67c7-4fe3-8f4b-005e256343bd_3_APP_IPHONE_65_3.png/600x0w.png"
+      ],
+      "size": 4550400,
+      "subtitle": "No ads. Cool tweaks. Requires iOS 15 and later. | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "c3352e",
+      "version": "7.06",
+      "versionDate": "2024-06-23",
+      "versionDescription": "Please uninstall builds before v7.04 to install v7.06 properly.\n- updated youtube music (https://apps.apple.com/app/id1017492454) to v7.04 \n— google's music streaming service.\n- info: https://telegra.ph/zxcvbn-tweaked-YTMusicUltimate-02-06\n— updated YTMusicUltimate to v2.0.6!"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.elgato.streamdeck-ios",
+      "developerName": "zxcvbn",
+      "downloadURL": "https://files.drifty.win/Others/ElgatoSDLifetime-2.2.0-zxcvbn.ipa",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/af/07/c8/af07c8da-49fe-ffea-79c9-95dba7ef50ba/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/460x0w.png",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nOne of the best softwares for streaming - the Elgato Stream Deck Controller, cracked for iOS by zxcvbn",
+      "name": "Elgato Stream Deck Mobile",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/6a/85/7a6a8588-7356-1115-6d71-7f3def193b3a/7e89a17b-4877-472f-95f3-694256bc431d_01.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1c/13/90/1c1390a8-43cb-189a-cef2-a0c0316177dc/62774966-e639-4894-8406-78f4ce2d9361_02.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/88/4b/9f/884b9f50-3bd8-fd21-6a64-e4cae55aee56/670398e4-45a2-4e4c-945c-3a3979fc67bb_03.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a8/39/fa/a839fa1e-b7b8-a9c0-c3e1-8f8e8ea6003a/9947e1f6-6204-4dd2-8cbd-73ac50df2b13_04.png/460x0w.png"
+      ],
+      "size": 91750400,
+      "subtitle": "cracked by zxcvbn, more available at https://t.me/zxcvbn_tweaked | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "778ff7",
+      "version": "2.2.0",
+      "versionDate": "2024-05-12",
+      "versionDescription": "- updated elgato to v2.2.0\n- info: requested as a paid crack\n- repo at https://repo.yippee.rip"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "khanhduytran0",
+      "downloadURL": "https://files.drifty.win/Others/com.kdt.livecontainer.ipa",
+      "iconURL": "https://cdn-icons-png.flaticon.com/512/9402/9402265.png",
+      "localizedDescription": "Join https://t.me/+rvcObIvOpctiMDI9 for more.\nmade by khanhduytran0, forked by me for building with latest commits.\nmore info at available at https://github.com/khanhduytran0/LiveContainer",
+      "name": "LiveContainer",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/6a/85/7a6a8588-7356-1115-6d71-7f3def193b3a/7e89a17b-4877-472f-95f3-694256bc431d_01.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1c/13/90/1c1390a8-43cb-189a-cef2-a0c0316177dc/62774966-e639-4894-8406-78f4ce2d9361_02.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/88/4b/9f/884b9f50-3bd8-fd21-6a64-e4cae55aee56/670398e4-45a2-4e4c-945c-3a3979fc67bb_03.png/460x0w.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a8/39/fa/a839fa1e-b7b8-a9c0-c3e1-8f8e8ea6003a/9947e1f6-6204-4dd2-8cbd-73ac50df2b13_04.png/460x0w.png"
+      ],
+      "size": 91750400,
+      "subtitle": "Run iOS apps without actually installing them! More info:- https://github.com/khanhduytran0/LiveContainer | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "b3b3b3",
+      "version": "703a1a5",
+      "versionDate": "2024-06-05",
+      "versionDescription": "- Allows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.\n- When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer."
+    }
+  ],
+  "identifier": "com.dw.source",
+  "name": "driftywinds' AltStore Repo",
+  "subtitle": "definitevely driftywinds",
+  "description": "YTlitePlus has shifted here: - https://ios.drifty.win/view/app/?source=https://driftywinds.github.io/repos/YTLPaltstore.json&id=com.google.ios.youtube\n\nAll driftywinds iOS releases for AltStore can be found here.\n\nLearn more: - https://github.com/driftywinds/\n\nApps might download as '.zip' just change the extension back to '.ipa' .\n\nKofi - https://ko-fi.com/driftywinds\nLiberapay - https://liberapay.com/driftywinds/donate\nPatreon - https://www.patreon.com/bePatron?u=67102544",
+  "iconURL": "https://raw.githubusercontent.com/driftywinds/driftywinds/main/Apps/dp.png",
+  "sourceURL": "https://driftywinds.github.io/AltStore/apps.json",
+  "website": "https://github.com/driftywinds",
+  "news": [
+    {
+      "appID": "com.google.ios.youtube",
+      "caption": "uYouEnhanced updated to 19.23.3, YTLitePlus has moved here - https://ios.drifty.win/view/app/?source=https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",
+      "date": "2024-06-10",
+      "identifier": "new-update",
+      "notify": true,
+      "tintColor": "02c2a8",
+      "title": "uYouEnhanced Latest - 10th June 2024"
+    },
+    {
+      "appID": "com.burbn.instagram",
+      "caption": "zxcvbn's InstaMulti updated to 333.1.0",
+      "date": "2024-06-18",
+      "identifier": "new-update",
+      "notify": true,
+      "tintColor": "C13584",
+      "title": "InstaMulti Latest - 18th June 2024"
+    },
+    {
+      "appID": "com.spotify.client",
+      "caption": "EeveeSpotify updated to 8.9.50",
+      "date": "2024-06-25",
+      "identifier": "new-update",
+      "notify": true,
+      "tintColor": "1DB954",
+      "title": "EeveeSpotify Latest - 25th June 2024"
+    },
+    {
+      "appID": "com.google.ios.youtubemusic",
+      "caption": "YT Music Ultimate updated to 7.06",
+      "date": "2024-06-23",
+      "identifier": "new-update",
+      "notify": true,
+      "tintColor": "c3352e",
+      "title": "YTM Ultimate Latest - 23rd June 2024"
+    }
+  ],
+  "userInfo": {}
+}
